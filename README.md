@@ -24,10 +24,8 @@ The overall architecture of Conv-SdMLPMixer, which consists of MIRB-CNN block an
 
 - [x] Project page released
 - [x] Dataset preparation instructions released
-- [x] Release of core implementation
-- [ ] Release of training and evaluation scripts
-- [ ] Pretrained model and demo
-
+- [x] Model code released
+- [x] Training and evaluation scripts released
 
 ## 📁 Dataset Preparation
 ### 1\. Download the Datasets
