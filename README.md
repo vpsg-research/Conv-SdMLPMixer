@@ -13,7 +13,7 @@ Addressing the common issues of high noise and relatively small lesion areas in 
 ## 📻 Overview
 
 <div align="center">
-    <img width="1000" alt="image" src="image\network.png">
+    <img width="1000" alt="image" src="image\1.png">
 </div>
 
 <div align="center">
