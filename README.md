@@ -1,9 +1,4 @@
-<div align="center">
-
-
-<h1>【Information Fusion 2025】Conv-SdMLPMixer: A Hybrid Medical Image Classification Network Based on Multi-branch CNN and Multi-scale multi-dimensional MLP</h1>
-
-</div>  <!-- ✅ 这一行必须加，结束居中区域 -->
+# 【INFFUS'25】Conv-SdMLPMixer: A Hybrid Medical Image Classification Network Based on Multi-branch CNN and Multi-scale multi-dimensional MLP
 
 ## ⭐ Abstract
 
